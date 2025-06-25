@@ -1,1 +1,2 @@
-# Duy_Swisscoding_Final_Project
+# <div align="center"> $\color{green}{\text {⭐Duy Swisscoding Final Project⭐}}$
+
