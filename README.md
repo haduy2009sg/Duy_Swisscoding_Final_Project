@@ -9,7 +9,7 @@
 
 ### 2.1 Biểu đồ biến động giá xăng dầu theo thời gian
 
-(https://github.com/haduy2009sg/Duy_Swisscoding_Final_Project/blob/8df945fc704d4dfdaf9dc32b024701f6bae084f3/Gi%C3%A1%20C%C3%A1c%20Lo%E1%BA%A1i%20X%C4%83ng%20D%E1%BA%A7u%20Theo%20Th%E1%BB%9Di%20Gian.png)
+![png](main/Picture%20Final%20Project/Boxplot%20nhận%20định%20cơ%20bản%20outlier.png)
 
 ### 2.2 Phân bố giá xăng
 
