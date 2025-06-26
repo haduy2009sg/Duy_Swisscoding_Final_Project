@@ -1,4 +1,4 @@
-# <div align="center"> $\color{green}{\text {⭐Đánh giá sơ bộ giá xăng dầu Việt Nam giai đoạn 2018-2022⭐}}$
+# <div align="center"> $\color{green}{\text {⭐Đánh giá xăng dầu Việt Nam giai đoạn 2018-2022⭐}}$
 
 ## 1. Mục tiêu
 
