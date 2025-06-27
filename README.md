@@ -155,7 +155,7 @@ Năm 2021 xuất khẩu:
     
       ❗ Giá xăng dầu việt Nam tăng cao chạm đỉnh (Giá xăng RON 95-III: 32870 VNĐ) vào thời điểm đó.
 
-## 4. Đánh giát tổng quá và đưa nhận định cá nhân
+## 4. Đánh giá tổng quát và đưa nhận định cá nhân
 
 ⭐ Kết luận:
 
