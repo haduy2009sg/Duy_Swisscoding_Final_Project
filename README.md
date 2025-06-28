@@ -138,14 +138,23 @@ Năm 2021 xuất khẩu:
 |49|Asia|Iraq|72049872511\.0|2021-01-01 00:00:00|Export|
 |131|North America|United States|67630508103\.0|2021-01-01 00:00:00|Export|
 
-
+⭐ Nhận định: Nga luôn nằm trong top 2 xuất khẩu dầu trên thế giới 2018-2021
 
 <p align="center">
-  <img src="/Picture%20Final%20Project/Top%205%20nước%20xuất%20khẩu%20dầu%20trên%20thế%20giới.png" 
+  <img src="/Picture%20Final%20Project/Tỉ%20trọng%20xuất%20nhập%20khẩu%20xăng%20dầu%20ở%20Nga%202021.png" 
+       alt="Sơ đồ kiến trúc" 
+       width="1500"/>
+</p>  
+
+⭐ Nhận định: Nga là nước chuyên nhập khẩu, giá trị nhập khẩu rất rất nhỏ là bao so với giá trị nhập khẩu.
+
+<p align="center">
+  <img src="/Picture%20Final%20Project/Tỉ%20trọng%20xuất%20khẩu%20xăng%20dầu%20top%205%202021.png" 
        alt="Sơ đồ kiến trúc" 
        width="600"/>
 </p>    
 
+⭐ Nhận định: Năm 2021 trước khi diễn ra chiến sự thì Nga vẫn đang là nước xuất khẩu đứng thứ 2 thế giới, là nước tác động mạnh đến giá dầu thế giới.
 
 ▶ Nga là nước xuất khẩu dầu đúng thứ hai thế giới năm 2018-2021. Tỉ trọng xuất khẩu dầu cao chiếm 11.84% xuất khẩu của thế giới năm 2021 ↪ Khi chiến sự Nga-Ukraine diễn ra vào tháng 4-2022, nó làm giá dầu thô trên thế giới tăng cao.(100$/thùng vào 3/2022)
 
