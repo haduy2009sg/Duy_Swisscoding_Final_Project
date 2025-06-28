@@ -102,41 +102,41 @@ Thấy rằng tỷ trọng xuất- nhập của Việt Nam thiên về nhập kh
 
 ### 3.2 Tỉ trọng xuất khẩu dầu của Nga năm 2021
 
-Năm 2018 xuất khẩu:
+Năm 2018 xuất khẩu: (Trade Value: Tỷ USD)
 |index|Continent|Country|Trade Value|Year|Action|
 |---|---|---|---|---|---|
-|488|Asia|Saudi Arabia|165883000000\.0|2018-01-01 00:00:00|Export|
-|526|Europe|Russia|133115000000\.0|2018-01-01 00:00:00|Export|
-|472|Asia|Iraq|82237271489\.0|2018-01-01 00:00:00|Export|
-|537|North America|Canada|66676826360\.0|2018-01-01 00:00:00|Export|
-|461|Asia|United Arab Emirates|58026759985\.0|2018-01-01 00:00:00|Export|
+|1|Asia|Saudi Arabia|165.883000|2018-01-01 00:00:00|Export|
+|2|Europe|Russia|133.115000|2018-01-01 00:00:00|Export|
+|3|Asia|Iraq|82.237271|2018-01-01 00:00:00|Export|
+|4|North America|Canada|66.676826|2018-01-01 00:00:00|Export|
+|5|Asia|United Arab Emirates|58.026760|2018-01-01 00:00:00|Export|
 
-Năm 2019 xuất khẩu:
+Năm 2019 xuất khẩu: (Trade Value: Tỷ USD)
 |index|Continent|Country|Trade Value|Year|Action|
 |---|---|---|---|---|---|
-|349|Asia|Saudi Arabia|149309000000\.0|2019-01-01 00:00:00|Export|
-|390|Europe|Russia|123136000000\.0|2019-01-01 00:00:00|Export|
-|332|Asia|Iraq|74722201540\.0|2019-01-01 00:00:00|Export|
-|400|North America|Canada|67775330703\.0|2019-01-01 00:00:00|Export|
-|411|North America|United States|61802596271\.0|2019-01-01 00:00:00|Export|
+|1|Asia|Saudi Arabia|149.309000|2019-01-01 00:00:00|Export|
+|2|Europe|Russia|23.136000|2019-01-01 00:00:00|Export|
+|3|Asia|Iraq|74.722202|2019-01-01 00:00:00|Export|
+|4|North America|Canada|67.775331|2019-01-01 00:00:00|Export|
+|5|North America|United States|61.802596|2019-01-01 00:00:00|Export|
 
-Năm 2020 xuất khẩu:
+Năm 2020 xuất khẩu: (Trade Value: Tỷ USD)
 |index|Continent|Country|Trade Value|Year|Action|
 |---|---|---|---|---|---|
-|206|Asia|Saudi Arabia|97396526198\.0|2020-01-01 00:00:00|Export|
-|246|Europe|Russia|74423796212\.0|2020-01-01 00:00:00|Export|
-|267|North America|United States|52206539937\.0|2020-01-01 00:00:00|Export|
-|256|North America|Canada|47177332539\.0|2020-01-01 00:00:00|Export|
-|190|Asia|Iraq|45403626326\.0|2020-01-01 00:00:00|Export|
+|206|Asia|Saudi Arabia|97.396526|2020-01-01 00:00:00|Export|
+|246|Europe|Russia|74.423796|2020-01-01 00:00:00|Export|
+|267|North America|United States|52.206540|2020-01-01 00:00:00|Export|
+|256|North America|Canada|47.177333|2020-01-01 00:00:00|Export|
+|190|Asia|Iraq|45.403626|2020-01-01 00:00:00|Export|
 
-Năm 2021 xuất khẩu:
+Năm 2021 xuất khẩu: (Trade Value: Tỷ USD)
 |index|Continent|Country|Trade Value|Year|Action|
 |---|---|---|---|---|---|
-|67|Asia|Saudi Arabia|137614000000\.0|2021-01-01 00:00:00|Export|
-|110|Europe|Russia|112683000000\.0|2021-01-01 00:00:00|Export|
-|119|North America|Canada|81228807103\.0|2021-01-01 00:00:00|Export|
-|49|Asia|Iraq|72049872511\.0|2021-01-01 00:00:00|Export|
-|131|North America|United States|67630508103\.0|2021-01-01 00:00:00|Export|
+|67|Asia|Saudi Arabia|137.614000|2021-01-01 00:00:00|Export|
+|110|Europe|Russia|112.683000|2021-01-01 00:00:00|Export|
+|119|North America|Canada|81.228807|2021-01-01 00:00:00|Export|
+|49|Asia|Iraq|72.049873|2021-01-01 00:00:00|Export|
+|131|North America|United States|	67.630508|2021-01-01 00:00:00|Export|
 
 ⭐ Nhận định: Nga luôn nằm trong top 2 xuất khẩu dầu trên thế giới 2018-2021
 
