@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="/Picture%20Final%20Project/Các%20giá%20trị%20outlier%20ở%20thời%20gian%20nào.png" 
+  <img src="/Picture%20Final%20Project/Giá%20thành%20dị%20biệt.png" 
        alt="Sơ đồ kiến trúc" 
        width="750"/>
 </p>
