@@ -144,6 +144,12 @@ Năm 2021 xuất khẩu: (Trade Value: Tỷ USD)
   <img src="/Picture%20Final%20Project/Tỉ%20trọng%20xuất%20nhập%20khẩu%20xăng%20dầu%20ở%20Nga%202021.png" 
        alt="Sơ đồ kiến trúc" 
        width="1500"/>
+</p> 
+
+<p align="center">
+  <img src="/Picture%20Final%20Project/Xuất%20khẩu%20dầu%20Nga%20so%20với%20thế%20giới.png" 
+       alt="Sơ đồ kiến trúc" 
+       width="1500"/>
 </p>  
 
 ⭐ Nhận định: Nga là nước chuyên nhập khẩu, giá trị nhập khẩu rất rất nhỏ là bao so với giá trị nhập khẩu.
