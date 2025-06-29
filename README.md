@@ -115,7 +115,7 @@ Năm 2019 xuất khẩu: (Trade Value: Tỷ USD)
 |index|Continent|Country|Trade Value|Year|Action|
 |---|---|---|---|---|---|
 |1|Asia|Saudi Arabia|149.309000|2019-01-01 00:00:00|Export|
-|2|Europe|Russia|23.136000|2019-01-01 00:00:00|Export|
+|2|Europe|Russia|123.136000|2019-01-01 00:00:00|Export|
 |3|Asia|Iraq|74.722202|2019-01-01 00:00:00|Export|
 |4|North America|Canada|67.775331|2019-01-01 00:00:00|Export|
 |5|North America|United States|61.802596|2019-01-01 00:00:00|Export|
